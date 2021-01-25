@@ -107,8 +107,8 @@
       ],"resourceVersion":"1.0","name":"curve1","tags":[],"resourceType":"GMAnimCurveChannel",},
   ],
   "parent": {
-    "name": "Animation Curves",
-    "path": "folders/Animation Curves.yy",
+    "name": "Easing Curves",
+    "path": "folders/Easing Curves.yy",
   },
   "resourceVersion": "1.2",
   "name": "curveElasticInOut",

@@ -32,7 +32,7 @@
     {"id":{"name":"curveBounce","path":"animcurves/curveBounce/curveBounce.yy",},"order":3,},
     {"id":{"name":"curveBack","path":"animcurves/curveBack/curveBack.yy",},"order":0,},
     {"id":{"name":"curveQuint","path":"animcurves/curveQuint/curveQuint.yy",},"order":25,},
-    {"id":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},"order":0,},
+    {"id":{"name":"rmMain","path":"rooms/rmMain/rmMain.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Amazon Fire","path":"options/amazonfire/options_amazonfire.yy",},
@@ -57,10 +57,10 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},},
+    {"roomId":{"name":"rmMain","path":"rooms/rmMain/rmMain.yy",},},
   ],
   "Folders": [
-    {"folderPath":"folders/Animation Curves.yy","order":3,"resourceVersion":"1.0","name":"Animation Curves","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Easing Curves.yy","order":3,"resourceVersion":"1.0","name":"Easing Curves","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},

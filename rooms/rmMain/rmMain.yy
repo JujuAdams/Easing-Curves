@@ -46,7 +46,7 @@
     "path": "easing curves.yyp",
   },
   "resourceVersion": "1.0",
-  "name": "rm_main",
+  "name": "rmMain",
   "tags": [],
   "resourceType": "GMRoom",
 }
