@@ -10,9 +10,10 @@
 &nbsp;
 
 **Notes:**
+- Curves taken from https://easings.net/
+- Includes in/out/inout variants i.e. `curveBounce` `curveBounceInv` `curveBounceInOut`
 - Curves range from `0.0` to `1.0` on both the x and y axes
-- Curves are exported with an x-axis resolution of 0.01 (each curve has 101 points)
-- Includes in/out/inout variants e.g. `curveBounce` `curveBounceInv` `curveBounceInOut`
+- Curves are exported with an x-axis resolution of 0.01 (each curve has 101 points). There are definitely smarter ways of doing this but it does seem to incur a performance penalty and it looks fine in my testing
 
 Recommended function for usage:
 ```
