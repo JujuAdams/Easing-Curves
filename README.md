@@ -15,7 +15,9 @@
 - Curves range from `0.0` to `1.0` on both the x and y axes
 - Curves are exported with an x-axis resolution of 0.01 (each curve has 101 points). There are definitely smarter ways of doing this but the number of points doesn't seem to incur a performance penalty in-game and it looks fine in my testing
 
-Recommended function for usage:
+&nbsp;
+
+**Recommended function for usage:**
 ```
 /// Return: Floating point number interpolated from <start> to <end> using the give animation curve as the lerping factor
 /// 
