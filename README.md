@@ -5,7 +5,6 @@
 <p align="center"><b>@jujuadams</b></p>
 
 <p align="center"><a href="https://github.com/JujuAdams/Easing-Curves/releases/tag/2.0.0">Download the .yymps</a></p>
-<p align="center">Chat about Easing Curves on the <a href="https://discord.gg/8krYCqr">Discord server</a></p>
 
 &nbsp;
 
